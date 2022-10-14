@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Parrots",
+        "img": "./parrots.jpg",
+        "url": "parrots-exam-4month.netlify.app",
+        "isUsed": "JavaScript, Bootstrap, Responsive",
+        "description": "You can get info parrots"
+    },
+    {
+        "id": 2,
+        "name": "Movies",
+        "img": "./movie.jpg",
+        "url": "movie-total.netlify.app",
+        "isUsed": "JavaScript, Bootstrap, Responsive",
+        "description": "You can get info about movies"
+    },
+    {
+        "id": 3,
+        "name": "CHats",
+        "img": "./todo.jpg",
+        "url": "https://movie-total.netlify.app/",
+        "isUsed": "JavaScript, Bootstrap, Responsive",
+        "description": "You can write your tasks"
+    }
+]
